@@ -1,0 +1,1 @@
+Contains Miscellaneous Code, Automation for different Tcode Functionalities for SAP,Dictionary Codes Etc.
