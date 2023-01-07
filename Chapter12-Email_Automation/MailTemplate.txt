@@ -1,0 +1,5 @@
+<p align='justify'>Hello Everyone,</p>
+<p align='justify'>Please fill in your shift details by <font color="green"><b>#EodDate# EOD (9.30 pm),</b></font> the worksheet cannot be modified post the mentioned date and time.</p>
+<p align='justify'>Please fill in the #Link#</p>
+
+<p align='justify'>Thanks</p>
